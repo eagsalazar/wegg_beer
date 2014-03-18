@@ -1,7 +1,7 @@
 [
-	{ "2": "Woof Woofsky" },
-	{ "4": "Meow Meowsky (almost out)" },
-	{ "5": "Negro Modelo Dark (out)" },
-	{ "6": "Boontz Amber" },
-	{ "7": "Bass" }
+	{ "floor": 2, "name": "Woof Woofsky" },
+	{ "floor": 4, "name": "Meow Meowsky (almost out)" },
+	{ "floor": 5, "name": "Negro Modelo Dark (out)" },
+	{ "floor": 6, "name": "Boontz Amber" },
+	{ "floor": 7, "name": "Bass" }
 ]
