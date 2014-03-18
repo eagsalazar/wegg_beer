@@ -1,7 +1,7 @@
 [
-	{"floor": 2, "beer": "Woof Woofsky"},
-	{"floor": 4, "beer": "Meow Meowsky (almost out)"},
-	{"floor": 5, "beer": "Negro Modelo Dark (out)"},
-	{"floor": 6, "beer": "Boontz Amber"},
-	{"floor": 7, "beer": "Bass"}
+	{ "2": "Woof Woofsky" },
+	{ "4": "Meow Meowsky (almost out)" },
+	{ "5": "Negro Modelo Dark (out)" },
+	{ "6": "Boontz Amber" },
+	{ "7": "Bass" }
 ]
